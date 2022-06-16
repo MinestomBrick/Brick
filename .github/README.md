@@ -1,3 +1,6 @@
+# :warning: :warning: Permanently moved to [Brickstom](https://github.com/GufliMC/Brickstom) :warning: :warning:
+
+~~
 # Brick
 
 A server implementation for [Minestom](https://github.com/Minestom/Minestom). This is the bare minimum.
@@ -24,3 +27,5 @@ java -jar Brick-<version>.jar
 | Command | Permission | Description                |
 |---------|------------|----------------------------|
 | /stop   | brick.stop | Gracefully stop the server |
+
+~~
